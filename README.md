@@ -12,6 +12,14 @@ This project demonstrates how users can create a well written README.md file usi
 - [Tests](#tests)
 - [Questions](#questions)
 
+## Links
+
+Walkthrough Video: 
+https://www.youtube.com/watch?v=4d6qGCzOCpU
+
+Github Repository: 
+https://github.com/dougyfresh208/readme-generator
+
 ## Installation
 n/a
 
